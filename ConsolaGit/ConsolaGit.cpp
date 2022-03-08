@@ -5,7 +5,7 @@
 
 int main()
 {
-    std::cout << "Primera versión de mi proyecto\n";
+    std::cout << "Primera versión de mi \n";
 }
 
 // Ejecutar programa: Ctrl + F5 o menú Depurar > Iniciar sin depurar
